@@ -4,16 +4,17 @@
 
 **Output:** The list of integers.
 
-**Example:**
+**Example:** 
+	
+```python
+checkio([1, 2, 3, 1, 3]) == [1, 3, 1, 3]
 
-	checkio([1, 2, 3, 1, 3]) == [1, 3, 1, 3]
+checkio([1, 2, 3, 4, 5]) == []
 
-	checkio([1, 2, 3, 4, 5]) == []
+checkio([5, 5, 5, 5, 5]) == [5, 5, 5, 5, 5]
 
-	checkio([5, 5, 5, 5, 5]) == [5, 5, 5, 5, 5]
-
-	checkio([10, 9, 10, 10, 9, 8]) == [10, 9, 10, 10, 9]
-
+checkio([10, 9, 10, 10, 9, 8]) == [10, 9, 10, 10, 9]
+```
 
 **How it is used:** This mission will help you to understand how to manipulate arrays, something that is the basis for solving more complex tasks. The concept can be easily generalized for real world tasks. For example: if you need to clarify statistics by removing low frequency elements (noise).
 
