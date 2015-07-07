@@ -4,7 +4,7 @@
 
 **Output:** The list of integers.
 
-**Example:** ::
+**Example:**
 
 	checkio([1, 2, 3, 1, 3]) == [1, 3, 1, 3]
 
