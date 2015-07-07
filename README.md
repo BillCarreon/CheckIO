@@ -1,0 +1,1 @@
+This is a collection of my solutions to the CheckIO challenges. They are grouped here in the same way they are presented on the CheckIO website. 
