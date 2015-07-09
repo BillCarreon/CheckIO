@@ -4,12 +4,13 @@ You are given a state for a rectangular board game grid with chips in a binary m
 
 For the given examples (see the schema) there is the same grid:
 
+```python
 ((1, 0, 0, 1, 0),
  (0, 1, 0, 0, 0),
  (0, 0, 1, 0, 1),
  (1, 0, 0, 0, 0),
  (0, 0, 1, 0, 0),)
-
+```
 
 For the first example coordinates of the cell is (1, 2) and as we can see from the schema this cell has 3 neighbour chips. For the second example coordinates is (0, 0) and this cell contains a chip, but we count only neighbours and the answer is 1.
 
