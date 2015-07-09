@@ -4,14 +4,10 @@
 
 **Output:** The list of integers.
 
-<<<<<<< Updated upstream
 **Example:** 
 	
 ```python
 checkio([1, 2, 3, 1, 3]) == [1, 3, 1, 3]
-=======
-**Example:**
->>>>>>> Stashed changes
 
 checkio([1, 2, 3, 4, 5]) == []
 
